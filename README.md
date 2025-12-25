@@ -1,10 +1,3 @@
-# School-Transportation-Delay-Analysis
-Theek hai 👍
-Main **complete Minor Project** bana raha hoon **simple, natural aur student-style**, taaki **AI ka doubt na ho**.
-Ye project tum **record + viva + submission** ke liye use kar sakte ho.
-
----
-
 # **School Transportation Delay Analysis**
 
 **Minor Project – Pandas**
